@@ -1,4 +1,4 @@
-🚀 Desafio Colaborativo Git
+🚀 DESAFIO COLABORATIVO
 
 Um repositório, várias ideias e um único objetivo: aprender colaborando! 🤝
 
